@@ -24,12 +24,12 @@ So this project was a challenge to recreate a QR code component as closely as po
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-challenge-ycaW3yZ-G4](https://www.frontendmentor.io/solutions/qr-code-component-challenge-ycaW3yZ-G4)
+- Live Site URL: [https://fm-qr-component.netlify.app/](https://fm-qr-component.netlify.app/)
 
 ## My process
 
-First I structured the project with HTML. Going by the font sizes, I went with and h1 and p and wrote what was on the design.
+First I structured the project with HTML. Going by the font sizes, I went with an h1 and p and wrote what was on the design.
 
 For styling, I decided to tackle this with a top-down approach. I started with the background. Then for the white box, I figured it was best to approach it as a div. Since the QR code was already in the starter pack, I just uploaded the image into the HTML.index file that accompanied it.
 
